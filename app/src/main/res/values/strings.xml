@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BaoCaoAndroid</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Đăng nhập</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="add_errol">"Bạn chưa nhập đầy đủ thông tin!!!"</string>
+    <string name="login_errol">"Sai tài khoản hoặc mật khẩu"</string>
+    <string name="thieulogin">"Không được để trống"</string>
+    <string name="add_ok">"Thêm dữ liệu thành công."</string>
+    <string name="delete">"Xóa dữ liệu thành công."</string>
+    <string name="update_ok">"Cập nhật dữ liệu thành công."</string>
+    <string name="login_ok">"Đăng nhập thành công."</string>
+    <string name="logout_ok">"Đăng xuất thành công."</string>
+    <string name="signup_ok">"Đăng ký thành công."</string>
+    <string name="khongtrungpass">"Mật khẩu không trùng khớp."</string>
+    <string name="ChonAnh">"Chọn ảnh"</string>
+    <string name="ChupAnh">"Chụp ảnh"</string>
+    <string name="repass">"Xác nhận mật khẩu"</string>
+    <string name="pass">"Mật khẩu"</string>
+    <string name="username1">"Tài khoản"</string>
+    <string name="xnpass">"Nhập lại mật khẩu:"</string>
+    <string name="inputpass">"Nhập mật khẩu:"</string>
+    //String layout
+    <string name="txt_ID">"ID"</string>
+    <string name="txt_name">"Họ tên"</string>
+    <string name="txt_ns">"Năm sinh"</string>
+    <string name="txt_sdt">"Số điện thoại"</string>
+    <string name="txt_sua">"Sửa"</string>
+    <string name="txt_xoa">"Xóa"</string>
+    <string name="txt_addtv">" Đăng ký thành viên mới"</string>
+    <string name="txt_signup">"SIGN UP"</string>
+    <string name="txt_in_masv">"Nhập mã SV:"</string>
+    <string name="txt_hint_masv">"Mã sinh viên"</string>
+
+</resources>
